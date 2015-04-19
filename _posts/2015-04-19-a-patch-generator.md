@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A patch generator
-categories: [linux,bash]
+categories: [linux]
 tags: [utils,bash]
 description: here document
 ---
