@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Emulate rename on windows
-categories:
-tags:
+categories: utils
+tags: bash
 description: Emulate rename on windows
 ---
 

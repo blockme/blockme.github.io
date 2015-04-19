@@ -13,7 +13,7 @@ task :post do
     f << <<-EOS.gsub(/^    /, '')
     ---
     layout: post
-    title: #{title}.capitalize
+    title: #{title.capitalize}
     categories:
     tags:
     description: #{title}
