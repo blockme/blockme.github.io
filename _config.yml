@@ -1,0 +1,32 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: blockme
+
+description: Stylish Jekyll Theme
+author:
+  name: blockme
+  email: YmxvY2ttZTk1MjdAZ21haWwuY29tCg==
+  github: blockme
+  twitter: blockme
+  pinterest: asd123
+  linkedin: asd123
+  bio: Tomorrow will be better
+  email_md5: 6463a87cff012685d53f88e164ed01f9
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
