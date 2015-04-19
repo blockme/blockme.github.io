@@ -13,10 +13,10 @@ task :post do
     f << <<-EOS.gsub(/^    /, '')
     ---
     layout: post
-    title: #{title}
-    published: false
+    title: #{title}.capitalize
     categories:
     tags:
+    description: #{title}
     ---
 
     EOS
