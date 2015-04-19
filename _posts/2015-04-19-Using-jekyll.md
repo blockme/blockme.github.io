@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jekyll vagrant not so perfectly
+title: Jekyll vagrant not so perfectly
 categories: [jekyll,vagrant]
 tags: [jekyll,error]
 description: here document
